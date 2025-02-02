@@ -3,7 +3,7 @@
 - Junior Front-End Developer
 - HTML/CSS/JS/React.js
 - Wordpress
-- 🌱 I’m currently learning React and Node.Js (Soon to be Full Stack LETS GO)
+- 🌱 I’m currently learning ASP.Net Core
 - 📫 reach me at :
 - Telegram: @Abolfazl_2653
 - Email: abolfazlmoaveni.work@gmail.com
