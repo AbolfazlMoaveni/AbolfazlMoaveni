@@ -3,8 +3,8 @@
 - Junior Front-End Developer
 - HTML/CSS/JS/React.js
 - Wordpress
--C++
--C#
+- C++
+- C#
 - proficient in working with MySQL and MSSQl
 - 🌱 I’m currently learning ASP.Net Core and NoSQL
 - 📫 reach me at :
