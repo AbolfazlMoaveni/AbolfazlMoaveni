@@ -1,12 +1,13 @@
 - 👋 Hi, I’m @AbolfazlMoaveni
 - Software Engineering Student
-- Junior Front-End Developer
-- HTML/CSS/JS/React.js
+- My Skills:
+- HTML/CSS/JS/very little React.js
 - Wordpress
 - C++
-- C#
-- proficient in working with MySQL and MSSQl
-- 🌱 I’m currently learning ASP.Net Core and NoSQL
+- C# windows forms app development :)
+- proficient in working with MySQL and MSSQl DBMS (currently learning Docker!)
+- proficient with python3 and Data analysis using numpy,pandas,matplotlib,scikit-learn and seaborn
+- 🌱 I’m currently learning AI and Transfer learning using KNN, CNN or CRNN and working with Datasets and OCR's
 - 📫 reach me at :
 - Telegram: @Abolfazl_2653
 - Email: abolfazlmoaveni.work@gmail.com
