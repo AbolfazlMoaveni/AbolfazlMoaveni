@@ -11,6 +11,8 @@
 - 📫 reach me at :
 - Telegram: @Abolfazl_2653
 - Email: abolfazlmoaveni.work@gmail.com
+- LinkedIn: https://www.linkedin.com/in/abolfazl-moaveni-614822246
+- LeetCode: https://leetcode.com/u/AbolfazlMoaveni/
 
 <!---
 AbolfazlMoaveni/AbolfazlMoaveni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
